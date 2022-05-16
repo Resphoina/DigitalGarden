@@ -1,17 +1,9 @@
 ---
-{"dg-publish":true,"dg-permalink":"mynote","permalink":"/mynote/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/old/untitled-1-mps/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
----
-ALIASES: []
-TITLES: []
-SERIES: []
-TAGS: []
-创建时间: []
-功能实现: []
-关联功能: []
-算法亮点: []
+
 ---
 
 # <font color=#DC143C>()-()-()-()-(算法原子)</font>
