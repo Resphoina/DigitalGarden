@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/old/untitled-1-mps/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/old/untitled-1-mps/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
