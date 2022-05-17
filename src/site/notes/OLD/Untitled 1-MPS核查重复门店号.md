@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/old/untitled-1-mps/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/old/untitled-1-mps/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
+(Home)[https://DigitalGarden.netlify.app/]
 
----
 
 # <font color=#DC143C>()-()-()-()-(算法原子)</font>
 URL:: 
